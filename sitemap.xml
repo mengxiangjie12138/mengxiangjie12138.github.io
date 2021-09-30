@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yourname.github.io/archives_room_of_liluo/gallery/index.html</loc>
+    <loc>https://yourname.github.io/gallery_of_liluo/gallery/index.html</loc>
     
     <lastmod>2021-09-26</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yourname.github.io/archives_room_of_liluo/gallery/wallpaper/index.html</loc>
+    <loc>https://yourname.github.io/gallery_of_liluo/gallery/wallpaper/index.html</loc>
     
     <lastmod>2021-09-26</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yourname.github.io/archives_room_of_liluo/post/zhu-yi-shi-xiang.html</loc>
+    <loc>https://yourname.github.io/gallery_of_liluo/post/zhu-yi-shi-xiang.html</loc>
     
     <lastmod>2021-09-26</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yourname.github.io/archives_room_of_liluo/videos/mode/index.html</loc>
+    <loc>https://yourname.github.io/gallery_of_liluo/videos/mode/index.html</loc>
     
     <lastmod>2020-06-22</lastmod>
     
@@ -31,7 +31,7 @@
   
 
   <url>
-    <loc>https://yourname.github.io/archives_room_of_liluo</loc>
+    <loc>https://yourname.github.io/gallery_of_liluo</loc>
     <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
