@@ -6,7 +6,7 @@
   <link href="https://yourname.github.io/atom.xml" rel="self"/>
   
   <link href="https://yourname.github.io/"/>
-  <updated>2022-02-01T04:01:32.335Z</updated>
+  <updated>2022-02-01T12:05:35.608Z</updated>
   <id>https://yourname.github.io/</id>
   
   <author>
@@ -15,6 +15,67 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>管理多个github账号</title>
+    <link href="https://yourname.github.io/post/github/guan-li-duo-ge-github-zhang-hao.html"/>
+    <id>https://yourname.github.io/post/github/guan-li-duo-ge-github-zhang-hao.html</id>
+    <published>2022-02-01T12:05:35.000Z</published>
+    <updated>2022-02-01T12:05:35.608Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><!-- tocstop -->]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!-- toc --&gt;
+
+
+
+&lt;!-- tocstop --&gt;
+
+
+
+</summary>
+      
+    
+    
+    
+    <category term="深度学习" scheme="https://yourname.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生成github令牌</title>
+    <link href="https://yourname.github.io/post/github/sheng-cheng-github-ling-pai.html"/>
+    <id>https://yourname.github.io/post/github/sheng-cheng-github-ling-pai.html</id>
+    <published>2022-02-01T12:05:21.000Z</published>
+    <updated>2022-02-01T12:14:15.151Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><!-- tocstop --><ol><li>登录github账号，点击settings</li></ol><p><img src="https://raw.githubusercontent.com/mengxiangjie12138/images/main/imgs/%E7%94%9F%E6%88%90github%E4%BB%A4%E7%89%8C1.png" alt="1"></p><ol start="2"><li>点击左侧的Developer settings</li></ol><p><img src="https://raw.githubusercontent.com/mengxiangjie12138/images/main/imgs/%E7%94%9F%E6%88%90github%E4%BB%A4%E7%89%8C2.png" alt="1"></p><ol start="3"><li>点击左侧的Personal access tokens</li></ol><p><img src="https://raw.githubusercontent.com/mengxiangjie12138/images/main/imgs/%E7%94%9F%E6%88%90github%E4%BB%A4%E7%89%8C3.png" alt="1"></p><ol start="4"><li>设置token信息</li></ol><p><img src="https://raw.githubusercontent.com/mengxiangjie12138/images/main/imgs/%E7%94%9F%E6%88%90github%E4%BB%A4%E7%89%8C4.png" alt="1"></p><p><img src="https://raw.githubusercontent.com/mengxiangjie12138/images/main/imgs/%E7%94%9F%E6%88%90github%E4%BB%A4%E7%89%8C5.png" alt="1"></p><ol start="5"><li>得到令牌（记得复制到安全的地方，之后就没法看到具体令牌了）</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!-- toc --&gt;
+
+
+
+&lt;!-- tocstop --&gt;
+
+&lt;ol&gt;
+&lt;li&gt;登录github账号，点击settings&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mengxiangjie12138</summary>
+      
+    
+    
+    
+    <category term="hexo/github" scheme="https://yourname.github.io/categories/hexo-github/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>论文汇总</title>
