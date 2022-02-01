@@ -47,15 +47,31 @@
     <url>//post/github/guan-li-duo-ge-github-zhang-hao.html</url>
     <content><![CDATA[<!-- toc -->
 
-
-
+<ul>
+<li><a href="#%E4%BD%BF%E7%94%A8https%E6%96%B9%E6%B3%95">使用https方法</a></li>
+</ul>
 <!-- tocstop -->
 
+<h2><span id="使用https方法">使用https方法</span></h2><ol>
+<li>取消全局登录信息并在.git文件夹中打开git命令行来设置局部登录信息</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 取消全局 用户名/邮箱/密码 配置</span><br><span class="line">git config --global --unset user.name</span><br><span class="line">git config --global --unset user.email</span><br><span class="line">git config --global --unset user.password</span><br><span class="line"></span><br><span class="line"># 单独设置每个repo 用户名/邮箱/密码</span><br><span class="line">git config user.name &quot;你的用户名&quot;  //在config后加上--global即全局</span><br><span class="line">git config user.email &quot;你的邮箱&quot;</span><br><span class="line">git config user.password &quot;你的密码&quot;</span><br></pre></td></tr></table></figure>
 
+<ol start="2">
+<li>查看是否设置成功</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --list</span><br></pre></td></tr></table></figure>
 
+<ol start="3">
+<li><p>建立对应账号的令牌（<a href="https://mengxiangjie12138.github.io/post/github/sheng-cheng-github-ling-pai.html">教程</a>）</p>
+</li>
+<li><p>项目URL修改为：https://&lt;你的github令牌&gt;@github.com/&lt;你的github用户名&gt;/&lt;你的repo名称&gt;.git</p>
+<p>例如：<a href="https://ghp_VajgjkljgalghjO1VNUf6XaglkjailjgrmPum@github.com/mengxiangjie12138/mengxiangjie12138.github.io.git">https://ghp_VajgjkljgalghjO1VNUf6XaglkjailjgrmPum@github.com/mengxiangjie12138/mengxiangjie12138.github.io.git</a></p>
+</li>
+</ol>
 ]]></content>
       <categories>
-        <category>深度学习</category>
+        <category>hexo/github</category>
       </categories>
   </entry>
   <entry>
