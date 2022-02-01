@@ -1,38 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>璃落的小窝-画廊</title>
+  <title>孟翔杰的个人网站</title>
   
-  <subtitle>璃落的小窝-画廊</subtitle>
-  <link href="https://yourname.github.io/gallery_of_liluo/atom.xml" rel="self"/>
+  <subtitle>孟翔杰的主页</subtitle>
+  <link href="https://yourname.github.io/atom.xml" rel="self"/>
   
-  <link href="https://yourname.github.io/gallery_of_liluo/"/>
-  <updated>2021-09-26T10:14:30.138Z</updated>
-  <id>https://yourname.github.io/gallery_of_liluo/</id>
+  <link href="https://yourname.github.io/"/>
+  <updated>2022-02-01T04:01:32.335Z</updated>
+  <id>https://yourname.github.io/</id>
   
   <author>
-    <name>璃落</name>
+    <name>孟翔杰</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>本网站注意事项（必读）</title>
-    <link href="https://yourname.github.io/gallery_of_liluo/post/zhu-yi-shi-xiang.html"/>
-    <id>https://yourname.github.io/gallery_of_liluo/post/zhu-yi-shi-xiang.html</id>
-    <published>2021-09-05T07:26:54.000Z</published>
-    <updated>2021-09-26T10:14:30.138Z</updated>
+    <title>论文汇总</title>
+    <link href="https://yourname.github.io/post/lun-wen-hui-zong.html"/>
+    <id>https://yourname.github.io/post/lun-wen-hui-zong.html</id>
+    <published>2022-02-01T03:42:06.000Z</published>
+    <updated>2022-02-01T04:01:32.335Z</updated>
     
-    <content type="html"><![CDATA[<h3><span id="主要注意事项">主要注意事项</span></h3><p><strong>1.本站不对任何未成年人开放！！请未满十八岁的用户自行点击右上角叉号离开！！</strong></p><p><strong>2.本站不对大陆用户开放！！</strong></p><p><strong>3.本站记录的故事均为虚构！！</strong></p><p><strong>4.本站记录的文字均为剧情服务，无任何隐喻，也不代表作者的观点！！</strong></p><h3><span id="免责声明细则">免责声明细则</span></h3><p>​        请访问者在接受本网站服务之前，请务必仔细阅读本条款并同意本声明。访问者访问本网站的行为以及通过各类方式利用本网站的行为，都将被视作是对本声明全部内容的无异议的认可;如有异议，请立即跟本网站协商，并取得本网站的书面同意意见。</p><h4><span id="第一条">第一条</span></h4><p>​        访问者在从事与本网站相关的所有行为(包括但不限于访问浏览、利用、转载、宣传介绍)时，必须以善意且谨慎的态度行事;访问者不得利用本网站以任何方式直接或者间接的从事违反中国法律、国际公约以及社会公德的行为，且访问者应当恪守下述承诺：</p><ol><li><p>传输和利用信息符合中国法律、国际公约的规定、符合公序良俗;</p></li><li><p>不将本网站以及与之相关的网络服务用作非法用途以及非正当用途;</p></li><li><p>不干扰和扰乱本网站以及与之相关的网络服务;</p></li><li><p>遵守与本网站以及与之相关的网络服务的协议、规定、程序和惯例等。</p></li></ol><h4><span id="第二条">第二条</span></h4><p>本网站郑重提醒访问者：请在转载、上载或者下载有关作品时务必尊重该作品的<a href="https://www.66law.cn/special/banquan/">版权</a>、著作权。</p><h4><span id="第三条">第三条</span></h4><p>本网站内容仅为作者娱乐需要，不代表作者的任何观点和看法，与本网站立场无关。</p><h4><span id="第四条">第四条</span></h4><p>当本网站以链接形式推荐其他网站内容时，本网站并不对这些网站或资源的可用性负责，且不保证从这些网站获取的任何内容、产品、服务或其他材料的真实性、合法性，对于任何因使用或信赖从此类网站或资源上获取的内容、产品、服务或其他材料而造成(或声称造成)的任何直接或间接损失，本网站均不承担任何责任。</p><h4><span id="第五条">第五条</span></h4><p>以上声明内容的最终解释权归<a href="https://liluoaikunbang.github.io/">璃落的小窝</a>网站所有。</p>]]></content>
+    <content type="html"><![CDATA[<!-- toc --><ul><li><a href="#%E6%96%B9%E6%B3%95%E7%B1%BB">方法类</a></li><li><a href="#%E5%BA%94%E7%94%A8%E7%B1%BB">应用类</a><ul><li><a href="#%E5%AF%84%E7%94%9F%E8%99%AB%E5%88%86%E7%B1%BB">寄生虫分类</a></li></ul></li></ul><!-- tocstop --><h2><span id="方法类">方法类</span></h2><h2><span id="应用类">应用类</span></h2><h3><span id="寄生虫分类">寄生虫分类</span></h3><ul><li><a href="https://ieeexplore.ieee.org/abstract/document/9658631">（2021Arxiv）A Semi-Supervised Classification Method of Apicomplexan Parasites and Host Cell using Contrastive Learning Strategy</a></li></ul><div class="hide-toggle"><div class="hide-button toggle-title" style><i class="fas fa-caret-right fa-fw"></i><span>Abstract</span></div>    <div class="hide-content"><p>A common shortfall of supervised learning for medical imaging is the greedy need for human annotations， which is often expensive and time-consuming to obtain. This paper proposes a semi-supervised classification method for three kinds of apicomplexan parasites and non-infected host cells microscopic images， which uses a small number of labeled data and a large number of unlabeled data for training. There are two challenges in microscopic image recognition. The first is that salient structures of the microscopic images are more fuzzy and intricate than natural images’ on a real-world scale. The second is that insignificant textures， like background staining， lightness， and contrast level， vary a lot in samples from different clinical scenarios. To address these challenges， we aim to learn a distinguishable and appearance-invariant representation by contrastive learning strategy. On one hand， macroscopic images， which share similar shape characteristics in morphology， are introduced to contrast for structure enhancement. On the other hand， different appearance transformations， including color distortion and flittering， are utilized to contrast for texture elimination. In the case where only 1% of microscopic images are labeled， the proposed method reaches an accuracy of 94.90% in a generalized testing set.</p></div></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3&gt;&lt;span id=&quot;主要注意事项&quot;&gt;主要注意事项&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1.本站不对任何未成年人开放！！请未满十八岁的用户自行点击右上角叉号离开！！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2.本站不对大陆用户开放！！&lt;/strong&gt;&lt;/p</summary>
+    <summary type="html">&lt;!-- toc --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#%E6%96%B9%E6%B3%95%E7%B1%BB&quot;&gt;方法类&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#%E5%BA%94%E7%94%A8%E7%B1%BB&quot;&gt;应用类&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a hre</summary>
       
     
     
+    
+    <category term="深度学习" scheme="https://yourname.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>论文复现</title>
+    <link href="https://yourname.github.io/post/lun-wen-fu-xian.html"/>
+    <id>https://yourname.github.io/post/lun-wen-fu-xian.html</id>
+    <published>2022-01-31T10:35:24.000Z</published>
+    <updated>2022-01-31T10:35:49.726Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc --><!-- tocstop -->]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!-- toc --&gt;
+
+
+
+&lt;!-- tocstop --&gt;
+
+
+
+</summary>
+      
+    
+    
+    
+    <category term="深度学习" scheme="https://yourname.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
   </entry>

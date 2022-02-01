@@ -2,42 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yourname.github.io/gallery_of_liluo/gallery/index.html</loc>
+    <loc>https://yourname.github.io/post/lun-wen-hui-zong.html</loc>
     
-    <lastmod>2021-09-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yourname.github.io/gallery_of_liluo/gallery/wallpaper/index.html</loc>
-    
-    <lastmod>2021-09-26</lastmod>
+    <lastmod>2022-02-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yourname.github.io/gallery_of_liluo/post/zhu-yi-shi-xiang.html</loc>
+    <loc>https://yourname.github.io/archives/index.html</loc>
     
-    <lastmod>2021-09-26</lastmod>
+    <lastmod>2022-02-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yourname.github.io/gallery_of_liluo/videos/mode/index.html</loc>
+    <loc>https://yourname.github.io/categories/index.html</loc>
     
-    <lastmod>2020-06-22</lastmod>
+    <lastmod>2022-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/link/index.html</loc>
+    
+    <lastmod>2022-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/post/lun-wen-fu-xian.html</loc>
+    
+    <lastmod>2022-01-31</lastmod>
     
   </url>
   
 
   <url>
-    <loc>https://yourname.github.io/gallery_of_liluo</loc>
-    <lastmod>2021-09-30</lastmod>
+    <loc>https://yourname.github.io/</loc>
+    <lastmod>2022-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
+  
+  <url>
+    <loc>https://yourname.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
