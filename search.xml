@@ -33,6 +33,22 @@
       </categories>
   </entry>
   <entry>
+    <title>论文复现</title>
+    <url>//post/shen-du-xue-xi/lun-wen-fu-xian.html</url>
+    <content><![CDATA[<!-- toc -->
+
+
+
+<!-- tocstop -->
+
+
+
+]]></content>
+      <categories>
+        <category>深度学习</category>
+      </categories>
+  </entry>
+  <entry>
     <title>生成github令牌</title>
     <url>//post/github/sheng-cheng-github-ling-pai.html</url>
     <content><![CDATA[<!-- toc -->
@@ -64,22 +80,6 @@
 ]]></content>
       <categories>
         <category>hexo/github</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>论文复现</title>
-    <url>//post/shen-du-xue-xi/lun-wen-fu-xian.html</url>
-    <content><![CDATA[<!-- toc -->
-
-
-
-<!-- tocstop -->
-
-
-
-]]></content>
-      <categories>
-        <category>深度学习</category>
       </categories>
   </entry>
   <entry>

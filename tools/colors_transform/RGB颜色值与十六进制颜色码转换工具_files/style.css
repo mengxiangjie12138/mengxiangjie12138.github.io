@@ -1,0 +1,79 @@
+@charset "gb2312";
+body {
+	font-size: 18px;
+	font-family: "΢���ź�";
+	font-weight: lighter;
+	color: #444;
+	background-color: #a8a8a8;
+	margin: 0;
+	padding: 0;
+	word-break:break-all;
+	word-wrap:break-word;
+}
+a {
+	color: #444;
+}
+a:hover {
+	color: #06f;
+}
+textarea, input, select {
+	resize: none;
+	outline: none;
+	font-size: 1em;
+	font-family: "΢���ź�";
+	font-weight: lighter;
+}
+.head {
+	width: 100%;
+	border-bottom: 8px #f1f1f1 solid;
+	background-color: #ccc;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 28px;
+	color: #fff;
+}
+.head b {
+	font-weight:normal;
+}
+.main {
+	max-width: 748px;
+	min-width: 320px;
+	margin: 0 auto;
+}
+.main .path {
+	width: 100%;
+	padding: 10px 0;
+	color: #fff;
+	font-family: "����";
+	font-size:16px;
+}
+.main .path a {
+	text-decoration: none;
+	color: #fff;
+}
+.main .path a:hover {
+	text-decoration: underline;
+	border-bottom: 1px solid #fff;
+}
+.main .content {
+	background-color: #fff;
+	padding: 10px;
+	text-align: justify;
+	text-justify: distribute;
+}
+.main .content .ad {
+	max-width: 728px;
+	padding-bottom: 10px;
+}
+.main .content .area {
+	max-width: 728px;
+	line-height: 160%;
+	overflow: hidden
+}
+.foot {
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	text-align: center;
+	line-height: 180%;
+}
