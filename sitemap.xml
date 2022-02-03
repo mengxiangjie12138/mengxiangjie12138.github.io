@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yourname.github.io/tools/colors_transform/index.html</loc>
-    
-    <lastmod>2022-02-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yourname.github.io/post/github/guan-li-duo-ge-github-zhang-hao.html</loc>
     
     <lastmod>2022-02-01</lastmod>
@@ -76,14 +69,14 @@
 
   
   <url>
-    <loc>https://yourname.github.io/categories/hexo-github/</loc>
+    <loc>https://yourname.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://yourname.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://yourname.github.io/categories/hexo-github/</loc>
     <lastmod>2022-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

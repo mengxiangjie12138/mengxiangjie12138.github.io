@@ -11,4 +11,7 @@ var _hmt = _hmt || [];
 
 window.addEventListener("load", function(){
 	var inss=document.getElementsByTagName('ins');
-	for(var insi=0;insi
+	for(var insi=0;insi<inss.length;insi++){
+		if(inss[insi].style.height=='0px') inss[insi].style.display='none';
+	}
+}, false);

@@ -1,7 +1,7 @@
 @charset "gb2312";
 body {
 	font-size: 18px;
-	font-family: "Î¢ï¿½ï¿½ï¿½Åºï¿½";
+	font-family: "Î¢ÈíÑÅºÚ";
 	font-weight: lighter;
 	color: #444;
 	background-color: #a8a8a8;
@@ -20,7 +20,7 @@ textarea, input, select {
 	resize: none;
 	outline: none;
 	font-size: 1em;
-	font-family: "Î¢ï¿½ï¿½ï¿½Åºï¿½";
+	font-family: "Î¢ÈíÑÅºÚ";
 	font-weight: lighter;
 }
 .head {
@@ -44,7 +44,7 @@ textarea, input, select {
 	width: 100%;
 	padding: 10px 0;
 	color: #fff;
-	font-family: "ï¿½ï¿½ï¿½ï¿½";
+	font-family: "ËÎÌå";
 	font-size:16px;
 }
 .main .path a {
